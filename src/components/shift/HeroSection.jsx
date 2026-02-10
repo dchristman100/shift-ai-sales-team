@@ -119,7 +119,7 @@ export default function HeroSection() {
               e.target.style.boxShadow = "0 4px 24px rgba(245,74,72,0.25)";
             }}
           >
-            Calculate Your Revenue Gap →
+            See What Missed Calls Are Costing You →
           </a>
           <a
             href="#demo"
