@@ -97,7 +97,7 @@ export default function Navbar() {
               e.target.style.transform = "translateY(0)";
             }}
           >
-            See What Missed Calls Are Costing You →
+            Calculate Your Gap →
           </a>
         </div>
       </div>
