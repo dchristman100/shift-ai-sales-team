@@ -19,6 +19,16 @@ export default function CtaSection() {
           <div style={{ height: 3, background: "linear-gradient(90deg, var(--coral), var(--orange), var(--green))" }} />
 
           <div style={{ padding: "56px 48px", textAlign: "center" }}>
+            <img
+              src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698b1e039556e19fb0ebf12c/3ec9fe12f_FinalV2.png"
+              alt="ShiFt Logo"
+              style={{
+                width: "auto",
+                height: 64,
+                margin: "0 auto 24px",
+                display: "block",
+              }}
+            />
             <h2
               className="font-display"
               style={{
