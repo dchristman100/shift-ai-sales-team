@@ -42,11 +42,11 @@ export default function Navbar() {
         }}
       >
         {/* Logo */}
-        <div className="font-display" style={{ fontSize: "1.2rem", fontWeight: 800 }}>
-          <span style={{ color: "var(--coral)" }}>ShiFt</span>
-          <span style={{ color: "var(--white)" }}> NeuralOS</span>
-          <span style={{ color: "var(--gray)", fontSize: "0.55rem", verticalAlign: "super" }}>™</span>
-        </div>
+        <img
+          src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698b1e039556e19fb0ebf12c/7ffcc5375_FinalV2.png"
+          alt="ShiFt"
+          style={{ height: 36, width: "auto" }}
+        />
 
         {/* Links + CTA */}
         <div style={{ display: "flex", alignItems: "center", gap: 32 }}>
