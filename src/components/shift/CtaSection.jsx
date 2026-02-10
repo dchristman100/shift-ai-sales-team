@@ -83,7 +83,7 @@ export default function CtaSection() {
                 e.target.style.boxShadow = "0 4px 24px rgba(245,74,72,0.25)";
               }}
             >
-              Calculate My Revenue Gap →
+              See What Missed Calls Are Costing You →
             </a>
 
             <div className="font-mono" style={{ fontSize: "0.72rem", color: "var(--gray)" }}>
