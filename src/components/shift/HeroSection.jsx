@@ -146,7 +146,7 @@ export default function HeroSection() {
               e.target.style.background = "var(--glass)";
             }}
           >
-            ▶ See ShiFt AI in Action
+            ▶ Watch Your Saturday Leads Book Themselves
           </a>
         </div>
 
