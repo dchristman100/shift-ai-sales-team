@@ -146,7 +146,7 @@ export default function HeroSection() {
               e.target.style.background = "var(--glass)";
             }}
           >
-            ▶ Watch Your Saturday Leads Book Themselves
+            ▶ Hear Your Next Missed Call Get Answered
           </a>
         </div>
 
